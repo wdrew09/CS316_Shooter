@@ -1,0 +1,13 @@
+.Stats {
+    margin-top: -50px;
+    display: grid;
+    grid-template-rows: 20%;
+}
+
+
+.header {
+    display: grid;
+    grid-template-rows: 50%;
+}
+
+
